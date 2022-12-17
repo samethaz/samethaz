@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+guys+!+My+name+is+Emre;I'm+a+Frontend+Developer;Welcome+to+my+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+guys+!+My+name+is+Samet;I'm+a+Devops+Cloud+Architect;Welcome+to+my+Github)](https://git.io/typing-svg)
 
 <p align="center">
 
@@ -6,7 +6,7 @@
   
 </p>
 
-# [MY WEBSITE](https://github.com/bayramemrekalkan)
+# [MY WEBSITE](https://github.com/samethaz)
 
 ## 🚀 Skills
 
@@ -71,7 +71,7 @@ ________________________________________________________________________________
 
 ## 👨👩 Social
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bayramemrekalkan)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samet-haz)
 
 <!-- [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://youtube.com/)
@@ -83,7 +83,7 @@ ________________________________________________________________________________
 - 🌱 Im currently learning Backend development (Django | Node.js | MongoDB | )
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything that you want to learn
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bayramemrekalkan)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samet-haz)
 
 ---
 
