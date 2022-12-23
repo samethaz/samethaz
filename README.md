@@ -15,7 +15,7 @@ Python | SQL | HTML | CSS | Linux | Git | GitHub | Cloud (AWS) | CloudFormation 
 | CloudFront | S3 | API GW | Lambda | EFS | Boto3 | CloudWatch | RDS | MariaDB | ALB with ASG | Apache 
 |  Nginx  |  Snapshots  |  Volumes  |  VPC  |  Route53  |  Certificate  Manager  |  IAM  |  AMI  |  Jenkins  |  Docker  | 
 Kubernetes | Jira | Slack | Ansible | Terraform | Scrum/Kanban | Shell scripting 
-     
+
 SOFT SKILLS  
 Analytical Thinking | Problem-Solving Abilities | Self-Motivated | Strong Communication | Project 
 Management | Planning | Time Management | Adaptability | Continuous Learning | Collaboration & Teamwork 
