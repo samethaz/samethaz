@@ -13,7 +13,7 @@
 #### - 🌱 I’m currently learning to use containerization technologies like Docker and Kubernetes.
 #### - 👯 I’m looking to collaborate on exciting software projects using DevOps principles.
 #### - 💬 Ask me about DevOps and Cloud.
-#### 📫 How to reach me: talk2osomudeya@gmail.com
+#### 📫 How to reach me: samethaz@gmail.com
 
 
 
@@ -36,17 +36,6 @@
 
 ## Ongoing Projects Porfolio Pinned Below 👇👇
 
-
-TECHNICAL SKILLS    
-Python | SQL | HTML | CSS | Linux | Git | GitHub | Cloud (AWS) | CloudFormation | EC2 | ECR | DynamoDB 
-| CloudFront | S3 | API GW | Lambda | EFS | Boto3 | CloudWatch | RDS | MariaDB | ALB with ASG | Apache 
-|  Nginx  |  Snapshots  |  Volumes  |  VPC  |  Route53  |  Certificate  Manager  |  IAM  |  AMI  |  Jenkins  |  Docker  | 
-Kubernetes | Jira | Slack | Ansible | Terraform | Scrum/Kanban | Shell scripting 
-
-SOFT SKILLS  
-Analytical Thinking | Problem-Solving Abilities | Self-Motivated | Strong Communication | Project 
-Management | Planning | Time Management | Adaptability | Continuous Learning | Collaboration & Teamwork 
-| Coaching Mindset | Resilience | Curiosity | Emotional Intelligence | Creativity
 
 <!-- ## 📈 Statistics
 
