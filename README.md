@@ -6,7 +6,7 @@
   
 </p>
 
-# [MY WEBSITE](https://github.com/samethaz)
+# [](https://github.com/samethaz)
 
 
 #### - 🔭 I’m currently working on DevOp projects, using tools like Ansible, Jenkins, IAC with Terraform, and AWS.
