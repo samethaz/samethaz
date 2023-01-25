@@ -58,7 +58,7 @@
 ## Ongoing Projects Porfolio Pinned Below 👇👇
 
 
-<!-- ## 📈 Statistics
+<!-- ## 📈 Statistics  list
 
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=Mr-Mesut-OZTURK" alt="visitor counter" width="20%"/>
