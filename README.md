@@ -60,7 +60,7 @@
 
 <!-- ## 📈 Statistics 
 
-<p align="lft">
+<p align="left">
  <img sc="https://komarev.com/ghpvc/?username=Mr-Mesut-OZTURK" alt="visitor counter" width="20%"/>
 </p>
 
